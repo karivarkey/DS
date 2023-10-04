@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <windows.h>
 
 void push(int a[10], int *top, int size);
 void display(int a[10], int *top, int size);
